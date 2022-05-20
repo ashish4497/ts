@@ -1,0 +1,22 @@
+.list-heaging-tag  {
+  text-transform: capitalize;
+  font-size: 18px;
+  text-align: center;
+}
+
+ul {
+  padding-left: 0;
+  padding: 10px 22px;
+  margin-bottom: 8px;
+  box-shadow: 1px 1px 1px 1px #888888;
+}
+li {
+  text-decoration: none;
+  list-style-type: none;
+  margin :10px 6px;
+  text-transform: capitalize;
+  font-size: 18px;
+}
+.icon-flex {
+margin-left: 12px;
+}

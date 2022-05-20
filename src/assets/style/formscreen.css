@@ -1,0 +1,16 @@
+.form-parent-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  display: flex;
+  height: 30px;
+  width: 380px;
+  margin-bottom: 12px;
+}
+.submit-button {
+  text-align: center;
+  height: 45px;
+  width: 180px;
+}
