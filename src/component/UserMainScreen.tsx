@@ -7,7 +7,6 @@ export default function UserMainScreen() {
   return (
     <div className="parent_container">
       <FormScreen/>
-      <ListItemScreen/>
     </div>
   )
 }
